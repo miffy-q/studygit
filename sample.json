@@ -1,4 +1,7 @@
 {
-    "name": "miffy-q"
-    "age": 26
+    "name": "miffy-q",
+    "age": 26,
+    "information": {
+      "money": 99999999
+    }
 }
